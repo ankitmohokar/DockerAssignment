@@ -1,0 +1,69 @@
+{
+  "restoDB":[
+ {
+ "distance":"0.5",
+ "name":"Nish Nush",
+ "type":"Kosher",
+ "price":"$",
+  "ratings":"**"
+
+ },
+ {
+
+ "distance":"0.6",
+ "name":"Sophie's Cuban Cuisine",
+ "type":"Cuban",
+ "price":"$$",
+  "ratings":"****"
+ },
+  {
+ "distance":"0.1",
+ "name":"Pisillo Italian Panini",
+ "type":"Italian",
+ "price":"$$",
+  "ratings":"*"
+ },
+  {
+ "distance":"0.1",
+ "name":"Augustine",
+ "type":"Haute French",
+ "price":"$$$$",
+  "ratings":"****"
+ },{
+ "distance":"0.2",
+ "name":"Grk Fresh Greek",
+ "type":"Greek",
+ "price":"$$",
+  "ratings":"*"
+ },{
+
+ "distance":"0.1",
+ "name":"Smashburger",
+ "type":"Hamburger",
+ "price":"$",
+  "ratings":"*"
+ },{
+
+ "distance":"0.05",
+ "name":"Rosella's Pizzeria",
+ "type":"Italian",
+ "price":"$",
+  "ratings":"***"
+ },{
+ "distance":"0.6",
+ "name":"Bonchon Chicken",
+ "type":"Chicken",
+ "price":"$",
+  "ratings":"***"
+ },{
+
+ "distance":"0.2",
+ "name":"Poke Bowl",
+ "type":"Hawaiian",
+ "price":"$$",
+  "ratings":"**"
+ }
+ ]
+}
+
+
