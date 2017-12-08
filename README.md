@@ -8,8 +8,8 @@ In order to run:
 
 Open Docker and run following commands.
 
-Build the image using command: docker build -t flaskfinalv13 .
+Build the image using command: docker build -t flaskfinalv16 .
 
-Run the Docker container using the command: docker run -d -p 5000:5000 flaskfinalv13
+Run the Docker container using the command: docker run -d -p 5000:5000 flaskfinalv16
 
 Copy the IP address from the Docker and use this address to run the application.
