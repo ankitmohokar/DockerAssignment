@@ -5,6 +5,6 @@ This container runs a RESTful service which displays collection of records and a
 
 In order to run:
 
-Build the image using command: docker build -t flaskfinalv13
+Build the image using command: docker build -t flaskfinalv13 .
 
 Run the Docker container using the command: docker run -d -p 5000:5000 flaskfinalcontv13
