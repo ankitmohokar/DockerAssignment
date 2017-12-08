@@ -5,6 +5,7 @@ Saksham Chandrawat and I have created a docker container running on Python and F
 This container runs a RESTful service which displays collection of records and also displays single record assigned to a specific ID.
 
 In order to run:
+
 Open Docker and run following commands.
 
 Build the image using command: docker build -t flaskfinalv13 .
